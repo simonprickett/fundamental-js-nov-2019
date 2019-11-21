@@ -11,6 +11,7 @@ The order of the words should stay the same.
 ## Example
 
 **Input:**  This sentence should be perfectly legible
+
 **Output:** Tihs seetnnce sluhod be pelecrtfy lgelbie
 
 ## Running the Solution
